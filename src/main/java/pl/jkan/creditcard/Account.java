@@ -12,3 +12,5 @@ public class Account {
         return money;
     }
 }
+
+/* to jest od Asi */
